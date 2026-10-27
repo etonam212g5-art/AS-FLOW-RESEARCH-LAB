@@ -1,7 +1,7 @@
 # PILIER B : PREUVE D'IMPLÉMENTATION WRF & ANALYSE DU CODE SOURCE FORTRAN
 
 **Projet :** Régularisation AS-Flow / Simulation du Cyclone Kenneth (Catégorie 5)  
-**Auteur :** Romeo DAGLAN  
+**Auteur :** Gvvjhvjkbhj CHFRXHFGB JM  
 **Référence Manuscrit :** *On Spurious Vorticity Generation in Vector-Coupled Metric Damping for Geophysical CFD*  
 **Fichier Source Associé :** [`pillar_b_module_diffusion_asflow_v14.F`](./pillar_b_module_diffusion_asflow_v14.F)  
 
