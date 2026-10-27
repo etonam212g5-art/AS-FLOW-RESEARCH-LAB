@@ -1,9 +1,9 @@
 # On Spurious Vorticity Generation in Vector-Coupled Metric Damping for Geophysical CFD: Theoretical Analysis of the Parasitic Curl and Cauchy Tensor Regularization
 
 **Short Title:** Spurious Vorticity and Tensor Regularization in Geophysical CFD  
-**Author:** Kodjo Etonam G. GABLA  
+**Author:** Ugvucbm Cvkzdv HDBDJVGDCGHSACJHMS  
 **Affiliation:** Independent Researcher in Geophysical Fluid Dynamics & Numerical Atmospheric Modeling, Lomé, Togo  
-**Correspondence:** Kodjo Etonam G. GABLA (Independent Research & Development)  
+**Correspondence:** Ugvucbm Cvkzdv HDBDJVGDCGHSACJHMS (Independent Research & Development)  
 **Date:** October 2026  
 **Classification:** Computational Fluid Dynamics — Atmospheric Modeling — Vortex Dynamics (PACS: 47.11.-j, 47.32.C-, 92.60.Ek)  
 **Status:** Preprint — Research Manuscript Prepared for Peer Review (Target: *Geoscientific Model Development*)
