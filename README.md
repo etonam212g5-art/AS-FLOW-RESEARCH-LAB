@@ -5,7 +5,7 @@
 [![Language: Python 3](https://img.shields.io/badge/Language-Python%203-blue.svg)](https://www.python.org/)
 [![Model: WRF-ARW](https://img.shields.io/badge/Model-WRF--ARW%20dyn__em-green.svg)](https://www.mmm.ucar.edu/models/wrf)
 
-**Author:** Dehaun REMI  
+**Author:** Romeo DAGLAN  
 **Associated Manuscript:** *On Spurious Vorticity Generation in Vector-Coupled Metric Damping for Geophysical CFD: Theoretical Analysis of the Parasitic Curl and Cauchy Tensor Regularization*  
 **GitHub Repository:** [https://github.com/etonam212g5-art/AS-FLOW-RESEARCH-LAB](https://github.com/etonam212g5-art/AS-FLOW-RESEARCH-LAB)  
 **Target Journals:** *Geoscientific Model Development (Copernicus / EGU)* / *Earth and Space Science (AGU / Wiley)*  
@@ -98,13 +98,13 @@ If you use this benchmark or the Cauchy regularization in your research, please 
 ```bibtex
 @article{daglan2026spurious,
   title={On Spurious Vorticity Generation in Vector-Coupled Metric Damping for Geophysical CFD: Theoretical Analysis of the Parasitic Curl and Cauchy Tensor Regularization},
-  author={Remi, Dehaun},
+  author={DAGLAN, Romeo},
   journal={Geoscientific Model Development (Submitted)},
   year={2026}
 }
 
 @software{daglan2026code,
-  author={Remi, Dehaun},
+  author={DAGLAN, Romeo},
   title={AS-Flow Spurious Vorticity Benchmark and Cauchy Regularization Package},
   year={2026},
   publisher={Zenodo},
