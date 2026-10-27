@@ -1,0 +1,26 @@
+{
+  "@context": "https://doi.org/10.5063/schema/codemeta-2.0",
+  "@type": "SoftwareSourceCode",
+  "name": "AS-Flow Spurious Vorticity Benchmark and Cauchy Regularization",
+  "description": "Reproduction suite for spurious vertical vorticity analysis in vector damping schemes within atmospheric numerical models (WRF)",
+  "version": "1.0.0",
+  "author": [
+    {
+      "@type": "Person",
+      "givenName": "Romeo",
+      "familyName": "DAGLAN",
+      "affiliation": {
+        "@type": "Organization",
+        "name": "Independent Researcher, Togo"
+      }
+    }
+  ],
+  "dateCreated": "2026-10-27",
+  "license": "https://spdx.org/licenses/MIT",
+  "programmingLanguage": [
+    "Python",
+    "Fortran"
+  ],
+  "operatingSystem": "Cross-platform (Linux, Windows, macOS)",
+  "codeRepository": "https://github.com/etonam212g5-art/AS-FLOW-RESEARCH-LAB"
+}
