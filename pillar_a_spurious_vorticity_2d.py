@@ -6,7 +6,7 @@ Analyse Analytique et Numerique de la Generation de Vorticite Parasite dans le C
 et Demonstration de la Regularisation Tensorielle de Cauchy
 ====================================================================================================
 
-Auteur       : Gvvjhvjkbhj CHFRXHFGB JM
+Auteur       : Kodjo Etonam G. GABLA
 Projet       : Regularisation AS-Flow / Simulation Cyclone Kenneth
 Application  : Note Technique & Article de Recherche (GMD / Copernicus / ESS AGU)
 Licence      : Open Source (MIT / CC-BY 4.0)

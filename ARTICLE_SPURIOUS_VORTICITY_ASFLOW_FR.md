@@ -1,7 +1,7 @@
 # Sur la Génération de Vorticité Parasite dans les Couplages Métriques-Vitesse en CFD Géophysique : Analyse Analytique du Terme Parasite et Régularisation Tensorielle de Cauchy
 
 **Titre court :** Génération de Vorticité Parasite et Régularisation Tensorielle en CFD Géophysique  
-**Auteur :** Gvvjhvjkbhj CHFRXHFGB JM  
+**Auteur :** Kodjo Etonam G. GABLA  
 **Date :** Octobre 2026  
 **Classification :** Mécanique des Fluides Numérique — Modélisation Météorologique — Dynamique des Vortex (PACS: 47.11.-j, 47.32.C-, 92.60.Ek)  
 **Statut :** Note Technique & Manuscrit de Recherche (Prêt pour Soumission)
