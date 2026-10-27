@@ -7,8 +7,8 @@
   "author": [
     {
       "@type": "Person",
-      "givenName": "Ugvucbm Cvkzdv",
-      "familyName": "HDBDJVGDCGHSACJHMS",
+      "givenName": "Romeo",
+      "familyName": "DAGLAN",
       "affiliation": {
         "@type": "Organization",
         "name": "Independent Researcher, Togo"
@@ -22,5 +22,6 @@
     "Fortran"
   ],
   "operatingSystem": "Cross-platform (Linux, Windows, macOS)",
-  "codeRepository": "https://github.com/etonam212g5-art/AS-FLOW-RESEARCH-LAB"
+  "codeRepository": "https://github.com/etonam212g5-art/AS-FLOW-RESEARCH-LAB",
+  "identifier": "https://doi.org/10.5281/zenodo.23696076"
 }

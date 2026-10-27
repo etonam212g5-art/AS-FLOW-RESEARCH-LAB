@@ -1,11 +1,11 @@
 # AS-Flow Spurious Vorticity Benchmark and Cauchy Tensor Regularization Package
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.placeholder.svg)](https://doi.org/10.5281/zenodo.placeholder)
+[![DOI](https://zenodo.org/badge/1435735406.svg)](https://doi.org/10.5281/zenodo.23696076)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Language: Python 3](https://img.shields.io/badge/Language-Python%203-blue.svg)](https://www.python.org/)
 [![Model: WRF-ARW](https://img.shields.io/badge/Model-WRF--ARW%20dyn__em-green.svg)](https://www.mmm.ucar.edu/models/wrf)
 
-**Author:** Ugvucbm Cvkzdv HDBDJVGDCGHSACJHMS  
+**Author:** Romeo DAGLAN  
 **Associated Manuscript:** *On Spurious Vorticity Generation in Vector-Coupled Metric Damping for Geophysical CFD: Theoretical Analysis of the Parasitic Curl and Cauchy Tensor Regularization*  
 **GitHub Repository:** [https://github.com/etonam212g5-art/AS-FLOW-RESEARCH-LAB](https://github.com/etonam212g5-art/AS-FLOW-RESEARCH-LAB)  
 **Target Journals:** *Geoscientific Model Development (Copernicus / EGU)* / *Earth and Space Science (AGU / Wiley)*  
@@ -98,17 +98,17 @@ If you use this benchmark or the Cauchy regularization in your research, please 
 ```bibtex
 @article{daglan2026spurious,
   title={On Spurious Vorticity Generation in Vector-Coupled Metric Damping for Geophysical CFD: Theoretical Analysis of the Parasitic Curl and Cauchy Tensor Regularization},
-  author={HDBDJVGDCGHSACJHMS, Ugvucbm Cvkzdv},
+  author={DAGLAN, Romeo},
   journal={Geoscientific Model Development (Submitted)},
   year={2026}
 }
 
 @software{daglan2026code,
-  author={HDBDJVGDCGHSACJHMS, Ugvucbm Cvkzdv},
+  author={DAGLAN, Romeo},
   title={AS-Flow Spurious Vorticity Benchmark and Cauchy Regularization Package},
   year={2026},
   publisher={Zenodo},
-  doi={10.5281/zenodo.placeholder}
+  doi={10.5281/zenodo.23696076}
 }
 ```
 

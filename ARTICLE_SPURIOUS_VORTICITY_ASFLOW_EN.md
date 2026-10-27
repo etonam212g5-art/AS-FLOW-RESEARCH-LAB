@@ -1,9 +1,9 @@
 # On Spurious Vorticity Generation in Vector-Coupled Metric Damping for Geophysical CFD: Theoretical Analysis of the Parasitic Curl and Cauchy Tensor Regularization
 
 **Short Title:** Spurious Vorticity and Tensor Regularization in Geophysical CFD  
-**Author:** Ugvucbm Cvkzdv HDBDJVGDCGHSACJHMS  
+**Author:** Romeo DAGLAN  
 **Affiliation:** Independent Researcher in Geophysical Fluid Dynamics & Numerical Atmospheric Modeling, Lomé, Togo  
-**Correspondence:** Ugvucbm Cvkzdv HDBDJVGDCGHSACJHMS (Independent Research & Development)  
+**Correspondence:** Romeo DAGLAN (Independent Research & Development)  
 **Date:** October 2026  
 **Classification:** Computational Fluid Dynamics — Atmospheric Modeling — Vortex Dynamics (PACS: 47.11.-j, 47.32.C-, 92.60.Ek)  
 **Status:** Preprint — Research Manuscript Prepared for Peer Review (Target: *Geoscientific Model Development*)
@@ -247,7 +247,7 @@ Researchers developing novel subgrid closures must systematically analyze the cu
 
 ## Code and Data Availability
 
-The complete standalone 2D reproduction benchmark suite (`pillar_a_spurious_vorticity_2d.py`), the WRF dynamic core Fortran routines (`module_diffusion_asflow_v14.F`), and the simulation metric datasets for Category-5 Cyclone Kenneth are openly archived on Zenodo at [https://doi.org/10.5281/zenodo.placeholder](https://doi.org/10.5281/zenodo.placeholder) and publicly accessible on GitHub at: [https://github.com/etonam212g5-art/AS-FLOW-RESEARCH-LAB](https://github.com/etonam212g5-art/AS-FLOW-RESEARCH-LAB).
+The complete standalone 2D reproduction benchmark suite (`pillar_a_spurious_vorticity_2d.py`), the WRF dynamic core Fortran routines (`module_diffusion_asflow_v14.F`), and the simulation metric datasets for Category-5 Cyclone Kenneth are openly archived on Zenodo at [https://doi.org/10.5281/zenodo.23696076](https://doi.org/10.5281/zenodo.23696076) and publicly accessible on GitHub at: [https://github.com/etonam212g5-art/AS-FLOW-RESEARCH-LAB](https://github.com/etonam212g5-art/AS-FLOW-RESEARCH-LAB).
 
 ---
 
@@ -263,4 +263,4 @@ The complete standalone 2D reproduction benchmark suite (`pillar_a_spurious_vort
 8. **Skamarock, W. C., & Klemp, J. B. (2008).** A time-split nonhydrostatic atmospheric model for weather research and forecasting applications. *Journal of Computational Physics*, 227(7), 3465-3485.
 9. **Smagorinsky, J. (1963).** General circulation experiments with the primitive equations: I. The basic experiment. *Monthly Weather Review*, 91(3), 99-164.
 10. **Von Neumann, J., & Richtmyer, R. D. (1950).** A method for the numerical calculation of hydrodynamic shocks. *Journal of Applied Physics*, 21(3), 232-237.
-11. **Daglan, R. (2026).** AS-Flow Spurious Vorticity Benchmark and Cauchy Regularization Package. *Zenodo*, doi:10.5281/zenodo.placeholder.
+11. **Daglan, R. (2026).** AS-Flow Spurious Vorticity Benchmark and Cauchy Regularization Package. *Zenodo*, doi:10.5281/zenodo.23696076.

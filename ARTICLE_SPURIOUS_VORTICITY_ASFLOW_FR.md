@@ -1,7 +1,7 @@
 # Sur la Génération de Vorticité Parasite dans les Couplages Métriques-Vitesse en CFD Géophysique : Analyse Analytique du Terme Parasite et Régularisation Tensorielle de Cauchy
 
 **Titre court :** Génération de Vorticité Parasite et Régularisation Tensorielle en CFD Géophysique  
-**Auteur :** Ugvucbm Cvkzdv HDBDJVGDCGHSACJHMS  
+**Auteur :** Romeo DAGLAN  
 **Date :** Octobre 2026  
 **Classification :** Mécanique des Fluides Numérique — Modélisation Météorologique — Dynamique des Vortex (PACS: 47.11.-j, 47.32.C-, 92.60.Ek)  
 **Statut :** Note Technique & Manuscrit de Recherche (Prêt pour Soumission)
@@ -219,7 +219,7 @@ Ce travail souligne l'importance impérative d'analyser systématiquement le rot
 
 ## Disponibilité des Codes et Données
 
-La suite complète de démonstration numérique 2D (`pillar_a_spurious_vorticity_2d.py`), les routines sources Fortran du solveur WRF (`module_diffusion_asflow_v14.F`) et les relevés de métriques du cyclone Kenneth sont archivés en accès libre sur Zenodo à l'adresse [https://doi.org/10.5281/zenodo.placeholder](https://doi.org/10.5281/zenodo.placeholder) et accessibles publiquement sur GitHub à l'adresse [https://github.com/etonam212g5-art/AS-FLOW-RESEARCH-LAB](https://github.com/etonam212g5-art/AS-FLOW-RESEARCH-LAB).
+La suite complète de démonstration numérique 2D (`pillar_a_spurious_vorticity_2d.py`), les routines sources Fortran du solveur WRF (`module_diffusion_asflow_v14.F`) et les relevés de métriques du cyclone Kenneth sont archivés en accès libre sur Zenodo à l'adresse [https://doi.org/10.5281/zenodo.23696076](https://doi.org/10.5281/zenodo.23696076) et accessibles publiquement sur GitHub à l'adresse [https://github.com/etonam212g5-art/AS-FLOW-RESEARCH-LAB](https://github.com/etonam212g5-art/AS-FLOW-RESEARCH-LAB).
 
 ---
 
